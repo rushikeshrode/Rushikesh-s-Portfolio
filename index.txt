@@ -1,0 +1,143 @@
+# 🚀 Rushikesh's Portfolio
+
+A professional and responsive personal portfolio website to showcase my skills, resume, projects, and contact information.
+
+---
+
+## 🧍‍♂️ Sidebar
+
+**Name:** Rushikesh Rode
+**Title:** SDE
+**Email:** [rushikeshrode01@gmail.com](mailto:rushikeshrode01@gmail.com)
+**Phone:** +91 9130246953
+**Birthday:** December 03, 2000
+**Location:** Pune, Maharashtra, India
+
+---
+
+## 📂 Navbar Sections
+
+* About
+* Resume
+* Portfolio
+* Contact
+
+---
+
+## 👨‍💻 About Me
+
+I'm a passionate Software Developer based in Pune, India, completed MCA at SIOM Pune. I specialize in building robust and scalable backend systems using Spring Boot, while also having solid experience with Angular for frontend development.
+
+My goal is to develop secure, efficient, and user-friendly applications that make a real impact.
+
+---
+
+## 💼 Services
+
+### 💻 Web Design
+
+Modern and professional UI designs for applications and websites.
+
+### 🌐 Web Development
+
+Robust, secure, and scalable backend development with Spring Boot & REST APIs.
+
+### 📱 Mobile Apps
+
+Responsive web applications that work seamlessly on all screen sizes.
+
+### ☁️ Cloud & DevOps
+
+Hands-on experience with Git, Docker, and cloud integrations.
+
+---
+
+## 🌟 Testimonials
+
+### Neela Santhosh Kumar
+
+> Rushikesh exhibited a strong grasp of web development fundamentals during his internship at CodTech. His ability to quickly learn and implement technologies like Spring Boot and Angular made him stand out. He is committed, communicative, and technically sound.
+
+---
+
+## 🤝 Clients
+
+* CodTech IT Solutions Pvt. Ltd.
+* NextGen Software Hub Pvt. Ltd.
+* SIOM Institute
+* NACSC College
+
+---
+
+## 📝 Resume
+
+### 🎓 Education
+
+**STES, SIOM, Pune**
+Batch of 2025 — MCA
+**GPA:** 8.00
+
+**Indraprastha New Arts, Commerce & Science College**
+Batch of 2022 — BCCA
+**GPA:** 8.40
+
+**New English High School & Junior College**
+Batch of 2018 — HSC
+
+### 💼 Experience
+
+**Software Developer Intern – CodTech IT Solutions**
+June 2025 – Present
+Spring Boot microservices and Angular UI enhancements.
+
+**Web Developer Intern – NextGen Software Hub**
+Feb 2025 – April 2025
+JWT Auth, modular Angular frontend, Git + Agile workflow.
+
+### 🔧 Skills
+
+* Java & Spring Boot — 90%
+* Angular — 80%
+* RESTful APIs & Microservices — 80%
+* HTML, CSS, JavaScript — 75%
+* MongoDB & MySQL — 85%
+* DevOps Tools (Git, Docker, Redis) — 75%
+
+---
+
+## 💼 Portfolio
+
+### 🌐 Projects
+
+* **SpringStream APIs** – Full-stack API project using Spring Boot + MongoDB.
+* **HalfGrade Quiz Platform** – Interactive quiz app with frontend hosted on GitHub Pages.
+* **Journal App** – Swagger-enabled journaling REST API with weather integration.
+* **NextGen LMS** – Learning platform built in Angular + Spring Boot + MongoDB.
+* **Weather Greeting API** – REST API to greet users based on weather conditions.
+* **FeedCart E-Commerce** – E-Commerce UI design.
+* **Resume Generator** – Create professional resumes.
+* **Personal Portfolio Website** – This website.
+
+---
+
+## ✍️ Blog *(Coming Soon)*
+
+Stay tuned for blogs on Java backend development, Spring Boot tips, and API security best practices.
+
+---
+
+## 📬 Contact
+
+**Location:** Pune, Maharashtra
+**Email:** [rushikeshrode01@gmail.com](mailto:rushikeshrode01@gmail.com)
+
+### 📩 Contact Form
+
+* Full name
+* Email address
+* Message box
+* Submit via [FormSubmit](https://formsubmit.co/)
+
+---
+
+> Designed & Developed with ❤️ by Rushikesh Rode
