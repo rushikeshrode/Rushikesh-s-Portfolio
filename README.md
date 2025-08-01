@@ -8,21 +8,23 @@ A sleek, modern, and fully responsive personal portfolio website built using **H
 ---
 
 ## 📁 Project Structure
-
-Rushikesh's Portfolio/
-│
+```
+RUSHIKESH'S PORTFOLIO/
 ├── assets/
-│ ├── css/
-│ │ └── style.css # All styling rules
-│ ├── js/
-│ │ └── script.js # Interaction and modal logic
-│ └── images/ # All images used in the site
-│
-├── website-demo-image/ # Screenshots or previews
-├── index.html # Main HTML file
-├── index.txt # (Unused or temporary)
-└── README.md # You're here
-
+│   ├── css/
+│   │   └── style.css
+│   ├── images/
+│   └── js/
+│       └── script.js
+├── website-demo-image/
+│   ├── demo01.jpeg
+│   ├── demo02.jpeg
+│   ├── demo03.jpeg
+│   └── demo04.jpeg
+├── index.html
+├── index.txt
+└── README.md
+```
 ---
 
 ## 🎯 Features
@@ -63,12 +65,15 @@ Rushikesh's Portfolio/
 
 📂 `website-demo-image/` folder contains screenshots or banner images you can use in this README or on GitHub Pages.
 
-📬 Contact Me
-📧 Email: rushikeshrode01@gmail.com
 
-💼 LinkedIn: Rushikesh Rode
+## 👤 Author
 
-🐙 GitHub: rushikeshrode
+**RUSHIKESH RODE**  
+📧 Email: rushikeshrode01@gmail.com  
+💼 LinkedIn: [Rushikesh Rode](https://www.linkedin.com/in/rushikesh-rode-097572312)  
+💻 GitHub: [Rushikesh Rode](https://github.com/rushikeshrode)  
+🌐 Portfolio: [Rushikesh Rode](https://rushikeshrode.github.io/Rushikesh-s-Portfolio/)   
+📍 Location: Pune, India
 
 📜 License
 This project is licensed under the MIT License.
