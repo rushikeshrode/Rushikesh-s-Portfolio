@@ -63,7 +63,7 @@ RUSHIKESH'S PORTFOLIO/
 
 ## 🖼️ Website Demo Image
 
-📂 `website-demo-image/` folder contains screenshots or banner images you can use in this README or on GitHub Pages.
+📂 `website-demo-image/` folder contains screenshots or banner images.
 
 
 ## 👤 Author
